@@ -1,7 +1,6 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from "react";
+import { ReactDOM } from "react";
 import Header from "./components/Header";
-import { render } from "@testing-library/react";
 import Note from "./components/Note";
 import Footer from "./components/Footer";
 

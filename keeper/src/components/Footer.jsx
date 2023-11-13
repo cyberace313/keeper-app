@@ -8,7 +8,7 @@ console.log(year);
 function Footer() {
   return (
     <footer>
-      <h1>Copyright {year}</h1>
+      <p>Copyright &copy; {year}</p>
     </footer>
   );
 }
